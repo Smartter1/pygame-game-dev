@@ -1,1 +1,9 @@
+1. Install the pygame module
+2. Create a blank screen and the game loop
+3. Draw the arena, the paddles and the ball
+4. Move the ball around
+5. Check for a collision with all edges
+6. Move the player's paddle
+7. Move the CPU paddle with Artificial Intelligence
+8. Check for a collision with the paddles
 9. Add scoring
