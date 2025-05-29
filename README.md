@@ -1,0 +1,1 @@
+A repo for smartter pygame game dev series
