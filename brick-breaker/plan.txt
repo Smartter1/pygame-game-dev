@@ -1,0 +1,12 @@
+1. Setup Pygame window
+2. Draw paddle
+3. Move paddle with arrow keys
+4. Create ball
+5. Move ball each frame
+6. Ball bounces off screen edges
+7. Detect collision between ball and paddle and make it bounce
+8. Create and draw the grid of bricks
+9. Detect collision between ball and bricks
+10. Remove bricks on collision
+11. add sound
+12. Detect when ball goes below screen and Display "Game Over" text and "You Win"
